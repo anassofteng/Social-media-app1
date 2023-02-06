@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1027047363058",
+    "project_id": "malikbook-50506",
+    "storage_bucket": "malikbook-50506.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027047363058:android:ec0722e86eaeabda3b1b6b",
+        "android_client_info": {
+          "package_name": "com.example.tech_media"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1027047363058-tkpvdu6tqli0fg46t8q07hv1l8de946c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCITNJvaMGjYOFWBwc5w7Ya_1ezrD5TmFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1027047363058-tkpvdu6tqli0fg46t8q07hv1l8de946c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
